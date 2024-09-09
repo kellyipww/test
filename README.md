@@ -1,2 +1,2 @@
 # test
-This is the firsty tutorial for SDSC2001
+This is the first tutorial for SDSC2001
